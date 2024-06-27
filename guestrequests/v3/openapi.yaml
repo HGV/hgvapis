@@ -1,6 +1,6 @@
 openapi: "3.0.3"
 info:
   title: Guest Requests API
-  version: 1.0.0
- servers:
+  version: 3.0.0
+  servers:
     - url: https://guestrequests.hgvapis.it/v3
