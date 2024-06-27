@@ -3,4 +3,4 @@ info:
   title: Guest Requests API
   version: 1.0.0
  servers:
-    - url: https://guestrequests.hgvapis.it/v1
+    - url: https://guestrequests.hgvapis.it/v3
